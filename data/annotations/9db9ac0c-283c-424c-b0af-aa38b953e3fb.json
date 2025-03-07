@@ -1,5 +1,470 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 68,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Edward Marxheimer addresses audience"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d46b1d13-1581-43af-898e-95a9930a058c"
+    },
+    {
+      "start_time": 69,
+      "end_time": 153,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Marxheimer introduces Peter Stevens [in English]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "13a65f0c-05d5-4e69-9be1-9ea81bb5ac5d"
+    },
+    {
+      "start_time": 154,
+      "end_time": 273,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Marxheimer reintroduces Stevens [in French]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ec4f7c1b-63f5-4e06-958e-651a6ed3a91c"
+    },
+    {
+      "start_time": 274,
+      "end_time": 372,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Stevens discusses the phases of Dorothy Livesay's career"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "487cf8fe-bc8a-4db3-bbe1-667cf0663362"
+    },
+    {
+      "start_time": 373,
+      "end_time": 488,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Stevens discusses rhythmic subtext in Livesay's poetry"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6127ff61-5565-4b97-b50c-64bcba6049ef"
+    },
+    {
+      "start_time": 489,
+      "end_time": 559,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Stevens discusses Livesay's use of image as substantiating the notion of rhythmic subtext [Incomplete]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "44b8673a-3cbe-47cb-8880-3193f23aed3a"
+    },
+    {
+      "start_time": 560,
+      "end_time": 562,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Merge gap]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d024e071-617f-4aec-bdbb-09c0bb039335"
+    },
+    {
+      "start_time": 563,
+      "end_time": 587,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Stevens introduces excerpt from Livesay's \"The Quarrel\""
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5f554a25-ba65-4b12-ab4d-bc6678968f66"
+    },
+    {
+      "start_time": 588,
+      "end_time": 615,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Stevens performs excerpt from \"The Quarrel\" [air conditioning noise in background]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8760d7af-d87d-4b31-9eb9-360c6ca6bd2b"
+    },
+    {
+      "start_time": 616,
+      "end_time": 634,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Stevens discusses poetry as a way of creating order from the inexpressible"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1b661757-3181-42a6-a932-69212d7cb68e"
+    },
+    {
+      "start_time": 635,
+      "end_time": 646,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Stevens introduces excerpt from Livesay's \"The Emperor's Circus\""
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "81b4f7f4-6a25-45d7-ae05-c20acb8e5581"
+    },
+    {
+      "start_time": 647,
+      "end_time": 723,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Stevens performs excerpt from \"The Emperor's Circus\""
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6f12e9ad-cd7e-4837-b265-5078fed27922"
+    },
+    {
+      "start_time": 724,
+      "end_time": 764,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Stevens discusses imagery in Dorothy Livesay's poetry in the context of creating order from the inexpressible"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0009b176-432d-4a00-b08a-91f54a83c7f4"
+    },
+    {
+      "start_time": 765,
+      "end_time": 775,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Applause"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "77008180-9bd8-4cf9-a2b5-81390061fa1c"
+    },
+    {
+      "start_time": 776,
+      "end_time": 821,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Marxheimer gives closing remarks"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d72cb475-6705-4a06-b6f3-02530577a1ee"
+    },
+    {
+      "start_time": 822,
+      "end_time": 825,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Audience 1 asks Marxheimer whether questions can be asked in French [in French]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "cc96e909-5302-481e-b3c8-45a017f0acb0"
+    },
+    {
+      "start_time": 826,
+      "end_time": 844,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Marxheimer answers Audience 1 about whether questions can be asked in French [in French]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8231deb3-6288-4771-95a7-2e847b2f9eac"
+    },
+    {
+      "start_time": 845,
+      "end_time": 863,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Audience 1 asks Stevens about Dorothy Livesay's influence on young poets [in French and English]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "3275b8f6-2082-4b69-abfd-3638823a9f82"
+    },
+    {
+      "start_time": 864,
+      "end_time": 900,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Stevens answers Audience 1 about Dorothy Livesay's influence on young poets"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "da9448a0-1be4-4399-830b-920972c2c069"
+    },
+    {
+      "start_time": 901,
+      "end_time": 906,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Audience 2 asks Stevens about young poets' interest in Dorothy Livesay"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "29084fb3-82a8-441f-a267-21554fb2ca4b"
+    },
+    {
+      "start_time": 907,
+      "end_time": 909,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Stevens answers Audience 2 about young poets' interest in Dorothy Livesay"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "76bf25c7-3cd0-4dba-8274-1bfa3d8674de"
+    },
+    {
+      "start_time": 910,
+      "end_time": 963,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Audience 3 comments about poetic silence as existential experience"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "44d62414-8661-4c2f-8a1e-d88274940fa0"
+    },
+    {
+      "start_time": 964,
+      "end_time": 982,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Stevens responds to Audience 3's comment about poetic silence as existential experience"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a8d47578-d8a3-4378-9d5a-d3fa7b94b42d"
+    },
+    {
+      "start_time": 983,
+      "end_time": 1010,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Audience 3 comments about the difference between aloneness and loneliness"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c002aaf7-69dc-49f4-b1d5-552d3470136e"
+    },
+    {
+      "start_time": 1011,
+      "end_time": 1030,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Audience 4 asks Stevens about markers of adolescence in Livesay's poetry"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "eee48c74-f860-4937-baa0-d9ba41d54d9d"
+    },
+    {
+      "start_time": 1031,
+      "end_time": 1036,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Stevens asks Audience 4 to clarify their question"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c2573703-b6da-4c03-ace6-ea8885eb4736"
+    },
+    {
+      "start_time": 1037,
+      "end_time": 1054,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Audience 4 comments about the presence of an adolescent viewpoint in Livesay's poetry"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9dcee934-07e2-4c2b-8ab9-7ad76c7ac6b1"
+    },
+    {
+      "start_time": 1055,
+      "end_time": 1086,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Stevens answers Audience 4 about the possible association of Livesay's love poems with youthfulness"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "491cb77c-8deb-45c5-a210-bcb7e0223422"
+    },
+    {
+      "start_time": 1087,
+      "end_time": 1128,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Marxheimer restates closing remarks"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ef9b8b4f-0ab3-4103-abfb-eb807f7c67fb"
+    }
+  ],
   "set": "Default",
   "event_id": "d406735f-9a39-4fe7-8302-fd4efbd55c62",
   "source_id": "8e4aa72b-31d9-4876-ab2b-d055842240d1"
