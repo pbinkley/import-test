@@ -1,15 +1,1 @@
-{
-  "content": [],
-  "created_at": "2025-03-07T19:00:17.454Z",
-  "created_by": "pbinkley",
-  "title": "Peter Stevens' talk",
-  "slug": "peter-stevens-talk",
-  "updated_at": "2025-03-07T19:00:17.454Z",
-  "updated_by": "pbinkley",
-  "parent": "9a4e6164-3dbe-496a-a069-3e484ce09705",
-  "autogenerate": {
-    "enabled": true,
-    "type": "event",
-    "type_id": "d406735f-9a39-4fe7-8302-fd4efbd55c62"
-  }
-}
+{"content":[],"created_at":"2025-03-07T19:00:17.454Z","created_by":"pbinkley","title":"Peter Stevens' talk","slug":"peter-stevens-talk","updated_at":"2025-03-07T19:00:17.454Z","updated_by":"pbinkley","parent":"9a4e6164-3dbe-496a-a069-3e484ce09705","autogenerate":{"enabled":true,"type":"event","type_id":"d406735f-9a39-4fe7-8302-fd4efbd55c62"}}
