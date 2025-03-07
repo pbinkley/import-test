@@ -1,0 +1,22 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Hi! This is the home of this test/demo project, created by Peter Binkley on 7 Mar. 2025."
+        }
+      ]
+    }
+  ],
+  "title": "Project home",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "project-home",
+  "created_at": "2025-03-07T20:35:26.285Z",
+  "created_by": "pbinkley",
+  "updated_at": "2025-03-07T20:35:26.285Z",
+  "updated_by": "pbinkley"
+}
